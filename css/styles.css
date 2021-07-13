@@ -1,1 +1,22 @@
 
+body {
+  background-color: black;
+  color: whitesmoke
+}
+.welcome {
+  color: red;
+  text-align: center
+}
+.welcome_address {
+  color: black;
+  text-align: center;
+  background-color: white;
+}
+.important {
+  background-color: yellow;
+  color: purple
+}
+.list {
+  color: black;
+  background-color: white;
+}
